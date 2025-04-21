@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|c:\\users\\pasto\\onedrive\\escritorio\\sistemagym\\kinecticgym\\pantallas\\buscar\\buscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|solutionrelative:pantallas\\buscar\\buscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|KinecticGym||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\pantallas\\buscar\\buscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|solutionrelative:pantallas\\buscar\\buscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\pantallas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|solutionrelative:pantallas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\pantallas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|solutionrelative:pantallas\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\clases\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC182C-806A-404B-AE1D-6CC8DC297F1C}|KinecticGym.csproj|solutionrelative:clases\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\Buscar\\BuscarCliente.cs",
+              "RelativeDocumentMoniker": "Pantallas\\Buscar\\BuscarCliente.cs",
+              "ToolTip": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\Buscar\\BuscarCliente.cs",
+              "RelativeToolTip": "Pantallas\\Buscar\\BuscarCliente.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAIA9wIwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:33:26.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuscarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\Buscar\\BuscarCliente.cs",
+              "RelativeDocumentMoniker": "Pantallas\\Buscar\\BuscarCliente.cs",
+              "ToolTip": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\Buscar\\BuscarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pantallas\\Buscar\\BuscarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T00:33:25.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KinecticGym",
+              "DocumentMoniker": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\KinecticGym.csproj",
+              "RelativeDocumentMoniker": "KinecticGym.csproj",
+              "ToolTip": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\KinecticGym.csproj",
+              "RelativeToolTip": "KinecticGym.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T23:44:34.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Clases\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Clases\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Clases\\Movimiento.cs",
+              "RelativeToolTip": "Clases\\Movimiento.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:10:47.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\principal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\principal.cs",
+              "ToolTip": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Pantallas\\principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:23:18.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "principal.cs",
+              "DocumentMoniker": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\principal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\principal.cs",
+              "ToolTip": "C:\\Users\\pasto\\OneDrive\\Escritorio\\SistemaGym\\KinecticGym\\Pantallas\\principal.cs",
+              "RelativeToolTip": "Pantallas\\principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:26:20.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

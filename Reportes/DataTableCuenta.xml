@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DataTableCuenta" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DataTableCuenta">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Fecha" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Nro" type="xs:int" minOccurs="0" />
+                <xs:element name="Detalle" type="xs:string" minOccurs="0" />
+                <xs:element name="Debitos" type="xs:double" minOccurs="0" />
+                <xs:element name="Reditos" type="xs:double" minOccurs="0" />
+                <xs:element name="Saldo" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DataTableCuenta>
+    <Fecha>2025-01-15T19:41:07.66236-03:00</Fecha>
+    <Nro>9</Nro>
+    <Detalle>masDeuda</Detalle>
+    <Debitos>0</Debitos>
+    <Reditos>2000</Reditos>
+    <Saldo>-12666</Saldo>
+  </DataTableCuenta>
+  <DataTableCuenta>
+    <Fecha>2025-01-15T19:41:07.66236-03:00</Fecha>
+    <Nro>10</Nro>
+    <Detalle>masDeuda</Detalle>
+    <Debitos>0</Debitos>
+    <Reditos>500</Reditos>
+    <Saldo>-12666</Saldo>
+  </DataTableCuenta>
+  <DataTableCuenta>
+    <Fecha>2025-01-15T19:41:07.66236-03:00</Fecha>
+    <Nro>11</Nro>
+    <Detalle>masDeuda</Detalle>
+    <Debitos>0</Debitos>
+    <Reditos>1500</Reditos>
+    <Saldo>-12666</Saldo>
+  </DataTableCuenta>
+  <DataTableCuenta>
+    <Fecha>2025-01-15T19:41:07.66236-03:00</Fecha>
+    <Nro>12</Nro>
+    <Detalle>NotaDebito</Detalle>
+    <Debitos>-10500</Debitos>
+    <Reditos>0</Reditos>
+    <Saldo>-12666</Saldo>
+  </DataTableCuenta>
+  <DataTableCuenta>
+    <Fecha>2025-01-15T19:41:07.66236-03:00</Fecha>
+    <Nro>13</Nro>
+    <Detalle>masDeuda</Detalle>
+    <Debitos>0</Debitos>
+    <Reditos>3500</Reditos>
+    <Saldo>-12666</Saldo>
+  </DataTableCuenta>
+  <DataTableCuenta>
+    <Fecha>2025-01-15T19:41:07.66236-03:00</Fecha>
+    <Nro>14</Nro>
+    <Detalle>NotaDebito</Detalle>
+    <Debitos>-3333</Debitos>
+    <Reditos>0</Reditos>
+    <Saldo>-12666</Saldo>
+  </DataTableCuenta>
+</NewDataSet>
